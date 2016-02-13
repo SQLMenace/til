@@ -10,6 +10,8 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 * [Excel](#Excel)
 * [Github](#Github)
+* [R](#R)
+
 
 ---
 
@@ -18,3 +20,8 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### Github
 - [Adding images to Github readme files](Github/Adding images to Github readme files.md)
+
+
+### R
+- [Vectors](R/Vectors.md)
+
