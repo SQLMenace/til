@@ -20,7 +20,7 @@ You can also use a shortcut by using the : operator
 
 [1] 1 2 3 4 5
 ```
-
+You can also start with a negative number and go to a positive number
 
 ```R
 > z <- -3:2
