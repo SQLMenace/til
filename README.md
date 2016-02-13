@@ -9,9 +9,12 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 ### Categories
 
 * [Excel](#Excel)
- 
+* [Github](#Github)
 
-
+---
 
 ### Excel
 - [Change dateformat from m/d/yyyy to mm/dd/yyyy in Excel](Office/Excel/ChangeDateformatInExcel.md)
+
+### Github
+- [Adding images to Github readme files](Github/Adding images to Github readme files.md)
