@@ -1,7 +1,7 @@
 To load data from SQL Server into R, you first need to create an ODBC Data Source, I created one named LocalSqlServer, this DSN Data Source points to my local SQL Server 2016 instance.
 
 After that you need to load the (RODBC)
- package, create a connection and execute a query, finally the head function is used to display the first 6 rows. Here is what it lokks like in R
+ package, create a connection and execute a query, finally the head function is used to display the first 6 rows. Here is what it looks like in the R Console
 
 
 ```R
