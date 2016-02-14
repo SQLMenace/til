@@ -8,7 +8,7 @@ After that you need to load the (RODBC)
 > require(RODBC)
 Loading required package: RODBC
 Warning message:
-package ‘RODBC’ was built under R version 3.2.3 
+package â€˜RODBCâ€™ was built under R version 3.2.3 
 
 
 >db <- odbcConnect("LocalSqlServer")
@@ -20,10 +20,9 @@ package ‘RODBC’ was built under R version 3.2.3
 	name          id xtype uid info status base_schema_ver
 1 
 	sp_MSalreadyhavegeneration -1073624922    P    4    0      0               0
-2 
-	sp_MSwritemergeperfcounter -1072815163    P    4    0      0               0
-3           TABLE_PRIVILEGES -1072372588    V    3    0     	sp_replsetsyncstatus -1071944761    X    4    0      0               0
-5            
-	sp_replshowcmds -1070913306    P    4    0      0               0
-6               sp_publishdb -1070573756    P    4    0      0               0
+2 	sp_MSwritemergeperfcounter -1072815163    P    4    0      0               0
+3       TABLE_PRIVILEGES -1072372588    V    3    0     	
+        sp_replsetsyncstatus -1071944761    X    4    0      0               0
+5       sp_replshowcmds -1070913306    P    4    0      0               0
+6       sp_publishdb -1070573756    P    4    0      0               0
 ```
