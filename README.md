@@ -25,4 +25,4 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 ### R
 - [Vectors](R/Vectors.md)
 - [Loading Data from SQL Server](R/Loading Data from SQL Server.md)
-
+- [Head and Tail](R/Head and Tail.md)
