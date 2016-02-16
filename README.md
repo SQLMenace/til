@@ -10,6 +10,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 * [Excel](#Excel)
 * [Github](#Github)
+* [Powershel](#Powershel)
 * [R](#R)
 
 
@@ -20,6 +21,9 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### Github
 - [Adding images to Github readme files](Github/Adding images to Github readme files.md)
+
+### Powershell
+- [Adding images to Github readme files](Powershell/Mandatory parameter.md)
 
 
 ### R
