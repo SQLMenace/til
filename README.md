@@ -10,7 +10,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 * [Excel](#Excel)
 * [Github](#Github)
-* [Powershel](#Powershel)
+* [Powershell](#Powershel)
 * [R](#R)
 
 
