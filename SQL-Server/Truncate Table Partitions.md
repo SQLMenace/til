@@ -1,6 +1,6 @@
 This is new in SQL Server 2016. 
 
-To truncate 1  partitions in a partitioned table
+To truncate 1 partition in a partitioned table
 
 ```SQL
 TRUNCATE TABLE PartitionTable1 
@@ -8,7 +8,7 @@ WITH (PARTITIONS (2));
 GO
 ```
 
-To truncate 3  partitions in a partitioned table
+To truncate 3 partitions in a partitioned table
 
 ```SQL
 TRUNCATE TABLE PartitionTable1 
