@@ -33,4 +33,4 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 
 ### SQL Server
-- [SQL Server/Truncate Table Partitions.md](SQL Server/Truncate Table Partitions.md)
+- [SQL Server/Truncate Table Partitions](SQL-Server/Truncate Table Partitions.md)
