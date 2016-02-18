@@ -12,7 +12,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 * [Github](#Github)
 * [Powershell](#Powershel)
 * [R](#R)
-
+* [SQL Server](#SQL Server)
 
 ---
 
@@ -30,3 +30,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 - [Vectors](R/Vectors.md)
 - [Loading Data from SQL Server](R/Loading Data from SQL Server.md)
 - [Head and Tail](R/Head and Tail.md)
+
+
+### SQL Server
+- [SQL Server/Truncate Table Partitions.md](SQL Server/Truncate Table Partitions.md)
