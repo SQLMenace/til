@@ -24,7 +24,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 - [Adding images to Github readme files](Github/Adding images to Github readme files.md)
  
 ### GoogleDocs
-- [import any table or list from any URL into Google Spreadsheets](GoogleDocs/import any table or list from any URL into Google Spreadsheets.md)
+- [Import any table or list from any URL into Google Spreadsheets](GoogleDocs/import any table or list from any URL into Google Spreadsheets.md)
 
 ### Powershell
 - [Making a parameter mandatory in a powershell file](Powershell/Mandatory parameter.md)
