@@ -5,8 +5,10 @@ This works with datetimes but not with dates data types
 LEAD(SomeDate-1,1,'99991231')
 ```
 
-```Msg 206, Level 16, State 2, Line 2
-Operand type clash: date is incompatible with int```
+```
+Msg 206, Level 16, State 2, Line 2
+Operand type clash: date is incompatible with int
+```
 
 
 This works with both dates and datetimes data types
