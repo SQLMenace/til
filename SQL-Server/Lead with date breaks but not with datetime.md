@@ -5,6 +5,7 @@ This works with datetimes but not with dates data types
 LEAD(SomeDate-1,1,'99991231')
 ```
 
+This is the error you get with a date
 ```
 Msg 206, Level 16, State 2, Line 2
 Operand type clash: date is incompatible with int
