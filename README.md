@@ -38,4 +38,5 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### SQL Server
 - [Lead with date breaks but not with datetime](SQL-Server/Lead with date breaks but not with datetime.md)
+- [STRING_SPLIT()](SQL-Server/STRING_SPLIT.md)
 - [Truncate Table Partitions](SQL-Server/Truncate Table Partitions.md)
