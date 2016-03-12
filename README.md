@@ -22,6 +22,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### Github
 - [Adding images to Github readme files](Github/Adding images to Github readme files.md)
+- [Migrate your code with the GitHub Importer](Github/Migrate your code with the GitHub Importer.md)
  
 ### GoogleDocs
 - [Import any table or list from any URL into Google Spreadsheets](GoogleDocs/import any table or list from any URL into Google Spreadsheets.md)
