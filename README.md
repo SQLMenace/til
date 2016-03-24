@@ -39,6 +39,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### SQL Server
 - [alter database scoped configuration](SQL-Server/alter database scoped configuration.md)
+- [Improving temp table and table variable performance using memory optimization](Improving temp table and table variable performance using memory optimization.md)
 - [Lead with date breaks but not with datetime](SQL-Server/Lead with date breaks but not with datetime.md)
 - [new autogrow options in SQL Server 2016](SQL-Server/new autogrow options in SQL Server 2016.md)
 - [STRING_SPLIT()](SQL-Server/STRING_SPLIT.md)
