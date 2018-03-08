@@ -33,8 +33,8 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### R
 - [Vectors](R/Vectors.md)
-- [Loading Data from SQL Server](Loading%20Data%20from%20SQL%20Server.md)
-- [Head and Tail](R/Head and Tail.md)
+- [Loading Data from SQL Server](R/Loading%20Data%20from%20SQL%20Server.md)
+- [Head and Tail](R/Head%20and%20Tail.md)
 
 
 ### SQL Server
