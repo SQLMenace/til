@@ -13,7 +13,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 * [GoogleDocs](#GoogleDocs)
 * [Powershell](#Powershel)
 * [R](#R)
-* [SQL Server](#SQL Server)
+* [SQL Server](#SQL%20Server)
 
 ---
 
@@ -21,14 +21,14 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 - [Change dateformat from m/d/yyyy to mm/dd/yyyy in Excel](Office/Excel/ChangeDateformatInExcel.md)
 
 ### Github
-- [Adding images to Github readme files](Github/Adding images to Github readme files.md)
-- [Migrate your code with the GitHub Importer](Github/Migrate your code with the GitHub Importer.md)
+- [Adding images to Github readme files](Github/Adding%20images%20to%20Github%20readme%20files.md)
+- [Migrate your code with the GitHub Importer](Github/Migrate%20your%20code%20with%20the%20GitHub%20Importer.md)
  
 ### GoogleDocs
-- [Import any table or list from any URL into Google Spreadsheets](GoogleDocs/import any table or list from any URL into Google Spreadsheets.md)
+- [Import any table or list from any URL into Google Spreadsheets](GoogleDocs/import%20any%20table%20or%20list%20from%20any%20URL%20into%20Google%20Spreadsheets.md)
 
 ### Powershell
-- [Making a parameter mandatory in a powershell file](Powershell/Mandatory parameter.md)
+- [Making a parameter mandatory in a powershell file](Powershell/Mandatory%20parameter.md)
 
 
 ### R
@@ -38,9 +38,9 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 
 ### SQL Server
-- [alter database scoped configuration](SQL-Server/alter database scoped configuration.md)
-- [Improving temp table and table variable performance using memory optimization](Improving temp table and table variable performance using memory optimization.md)
-- [Lead with date breaks but not with datetime](SQL-Server/Lead with date breaks but not with datetime.md)
-- [new autogrow options in SQL Server 2016](SQL-Server/new autogrow options in SQL Server 2016.md)
+- [alter database scoped configuration](SQL-Server/alter%20database%20scoped%20configuration.md)
+- [Improving temp table and table variable performance using memory optimization](Improving%20temp%20table%20and%20table%20variable%20performance%20using%20memory%20optimization.md)
+- [Lead with date breaks but not with datetime](SQL-Server/Lead%20with%20date%20breaks%20but%20not%20with%20datetime.md)
+- [new autogrow options in SQL Server 2016](SQL-Server/new%20autogrow%20options%20in%20SQL%20Server%202016.md)
 - [STRING_SPLIT()](SQL-Server/STRING_SPLIT.md)
-- [Truncate Table Partitions](SQL-Server/Truncate Table Partitions.md)
+- [Truncate Table Partitions](SQL-Server/Truncate%20Table%20Partitions.md)
