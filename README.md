@@ -8,6 +8,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### Categories
 
+* [Docker](#Docker)
 * [Excel](#Excel)
 * [Github](#Github)
 * [GoogleDocs](#GoogleDocs)
@@ -16,6 +17,9 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 * [SQL Server](#SQL%20Server)
 
 ---
+### Docker
+
+
 
 ### Excel
 - [Change dateformat from m/d/yyyy to mm/dd/yyyy in Excel](Office/Excel/ChangeDateformatInExcel.md)
