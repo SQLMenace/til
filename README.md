@@ -48,3 +48,4 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 - [new autogrow options in SQL Server 2016](SQL-Server/new%20autogrow%20options%20in%20SQL%20Server%202016.md)
 - [STRING_SPLIT()](SQL-Server/STRING_SPLIT.md)
 - [Truncate Table Partitions](SQL-Server/Truncate%20Table%20Partitions.md)
+- [Emoji's in SSMS output](SQL-Server/Emoji-in-output.md)
