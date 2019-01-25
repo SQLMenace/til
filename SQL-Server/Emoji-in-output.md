@@ -1,6 +1,6 @@
 
 
-SSMS let's you put emoji's in strings. I just tried it out as a joke.
+SSMS let's you put emojis in strings. I just tried it out as a joke.
 
 Make sure to put a N in front of the string, this way SSMS knows it's unicode
 
