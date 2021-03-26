@@ -10,7 +10,7 @@ This also works in a regular command window
 
 
 
-And here it is side by side with an explorer window
+And here it is side by side with the output from an explorer window
 
 
 ![Powersheel_explorer](https://user-images.githubusercontent.com/16019429/112690671-8bde5b80-8e52-11eb-9fd0-f776e8b4db41.PNG)
