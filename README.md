@@ -33,6 +33,7 @@ things that don't really warrant a full blog post.   Idea stolen from <a href="h
 
 ### Powershell
 - [Making a parameter mandatory in a powershell file](Powershell/Mandatory%20parameter.md)
+- [tree command](Powershell/tree%20command.md)
 
 
 ### R
